@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hello, I'm Daniel Florencio!
 
-<!--
-**dcflorencio/dcflorencio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔹 **Experienced Data Scientist** with 10+ years working with diverse datasets across various domains.
+- 🔹 Skilled in building and optimizing **data pipelines** and **machine learning models** for actionable insights.
+- 🎓 **Master’s in Data Science** (Graduating Dec 2024) - UC Berkeley.
+- 💡 Passionate about **Large Language Models (LLMs)** and **agentic workflows**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Interests:
+- **LLM integration** in real-world applications.
+- **Agentic workflows** to enhance automation.
+- End-to-end **data pipeline development** and optimization.
+- Leading cross-functional teams to solve complex problems through **data-driven insights**.
+
+---
+
+### 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dcflorencio&theme=dark)](https://git.io/streak-stats)
+
+
+---
+
+📫 Feel free to reach out or explore my projects below!
