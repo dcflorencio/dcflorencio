@@ -5,7 +5,6 @@
 - 🎓 **Master’s in Data Science** (Graduating Dec 2024) - UC Berkeley.
 - 💡 Passionate about **Large Language Models (LLMs)** and **agentic workflows**.
 
-
 ---
 
 ### Interests:
@@ -16,10 +15,18 @@
 
 ---
 
+### Featured Project:
+- 📂 [REAgent: Intelligent Real Estate Agent](https://github.com/dcflorencio/REAgent)
+    - Implements a **multi-agent system** for generating real estate reports.
+    - Integrates **Zillow API** to fetch real estate listings and generate detailed reports.
+    - Built with **Microsoft Autogen** and **Streamlit** for an interactive user interface.
+    - Agents collaborate on tasks like planning, fetching data, and generating Markdown reports based on user feedback.
+
+---
+
 ### 📊 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dcflorencio&theme=dark)](https://git.io/streak-stats)
-
 
 ---
 
