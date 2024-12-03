@@ -2,7 +2,7 @@
 
 - 🔹 **Experienced Data Scientist** with 10+ years working with diverse datasets across various domains.
 - 🔹 Skilled in building and optimizing **data pipelines** and **machine learning models** for actionable insights.
-- 🎓 **Master’s in Data Science** (Graduating Dec 2024) - UC Berkeley.
+- 🎓 **Master’s in Data Science**  - UC Berkeley.
 - 💡 Passionate about **Large Language Models (LLMs)** and **agentic workflows**.
 
 ---
