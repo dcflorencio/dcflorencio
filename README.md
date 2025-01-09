@@ -16,10 +16,10 @@
 ---
 
 ### Featured Project:
-- 📂 [REAgent: Intelligent Real Estate Agent](https://github.com/dcflorencio/REAgent)
+- 📂 [REAgent: Intelligent Real Estate Agent](https://github.com/dcflorencio/langgraph-reagent)
     - Implements a **multi-agent system** for generating real estate reports.
     - Integrates **Zillow API** to fetch real estate listings and generate detailed reports.
-    - Built with **Microsoft Autogen** and **Streamlit** for an interactive user interface.
+    - Built with **LangGraph**.
     - Agents collaborate on tasks like planning, fetching data, and generating Markdown reports based on user feedback.
 
 ---
